@@ -11,4 +11,4 @@ Este repositório contém diversos arquivos Python, cada um representando uma fu
 - **mega-sena.py**: O programa se resume a um jogo de loteria, a Mega-Sena, onde o usuário digita 6 números distintos, e o script quantifica os erros e acertos do usuário, gerando uma pontuação.
 ## Aprendizados
 
-Com esses programas, consegui um nível maior de clareza sobre algumas questões e problemas geralmente apresentados em Python. Aprendi a usar o *try/except*, aprendi a usar o *break* e o *continue*, e consolidei meus conhecimentos sobre a linguagem de programação Python.
+Com esses programas, consegui um nível maior de clareza sobre algumas questões e problemas geralmente apresentados em Python. Aprendi a usar o *try/except*, a usar o *break*, o *continue* e descobri mais sobre a automação de tarefas, consolidando meus conhecimentos sobre a linguagem de programação Python.
