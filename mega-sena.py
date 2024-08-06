@@ -1,6 +1,5 @@
 import random
 
-
 def apostador():
     numeros = list()
     for i in range(6):
@@ -33,7 +32,7 @@ def validacao(aposta):
 #------------------------------------------------
 def premiacao(pontos):
     if  (pontos < 4):
-        return "Infelizmente você acertou nenhum número."
+        return "Infelizmente você acertou nenhuma sequência."
     elif  (pontos == 4):
         return "Parabéns! Você conseguiu acertar a quadra!"
     elif  (pontos == 5):
